@@ -1,7 +1,4 @@
 /*
-	Author : Shaik Faizan Roshan Ali
-	Email : alsahercoder@gmail.com
-	Date : 12-oct-2020
 	Source : https://leetcode.com/problems/squares-of-a-sorted-array/
 	Given an array of integers A sorted in non-decreasing order, return an array of the squares of each number, also in sorted non-decreasing order.
 */
