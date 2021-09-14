@@ -1,7 +1,4 @@
 /*
-	Author : Shaik Faizan Roshan Ali
-	Email : alsahercoder@gmail.com
-	Date : 19-sep-2020
 	This program sorts the Binary array in linear time complexity.	
 */
 
