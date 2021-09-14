@@ -1,7 +1,4 @@
 /* 
-    Author : Shaik Faizan Roshan Ali
-    Email : alsahercoder@gmail.com
-    Date : 15-sep-2018
     Source : https://leetcode.com/problems/shuffle-the-array/
     
     Given the array nums consisting of 2n elements in the form [x1,x2,...,xn,y1,y2,...,yn].
