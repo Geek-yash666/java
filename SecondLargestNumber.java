@@ -1,8 +1,4 @@
 /*
-    Author: Shaik Faizan Roshan Ali
-    Email : alsahercoder@gmail.com
-    Date : 16-sep-2020
-    
     This program finds out the second-highest element in an array.
 */
 import java.util.*;
