@@ -1,7 +1,4 @@
 /* 
-	Author : Shaik Faizan Roshan Ali
-	Email : alsahercoder@gmail.com
-	Date : 23-sep-2020
   This program searches index of a character in a String value.
 */
 
