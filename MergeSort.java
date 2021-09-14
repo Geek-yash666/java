@@ -1,7 +1,5 @@
 /*
-	Author : Shaik Faizan Roshan Ali
-	Email : alsahercoder@gmail.com
-	Date : 19-sep-2020
+
 	Given two sorted arrays, merge them into sorted array.
 */
 
