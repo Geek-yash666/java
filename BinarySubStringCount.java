@@ -1,6 +1,4 @@
 /*
-Author: Shaik Faizan Roshan Ali
-Date: 5th August 2021
 About: From the given binary string, 
         count the number of subsequences that start and end with 1
 **/
