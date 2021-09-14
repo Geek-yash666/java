@@ -1,7 +1,4 @@
 /* 
-	Author : Shaik Faizan Roshan Ali
-	Email : alsahercoder@gmail.com
-	Date : 9-Oct-2020
   	This program searches last index of a character in a String value.
 */
 
