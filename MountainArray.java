@@ -1,7 +1,4 @@
 /*
-	Author : Shaik Faizan Roshan Ali
-	Email : alsahercoder@gmail.com
-	Date : 19-sep-2020
     	Source: https://leetcode.com/problems/valid-mountain-array/
 	To check if the array is strictly increasing and then strictly decreasing. Any other sequence is neglected.
 */ 
