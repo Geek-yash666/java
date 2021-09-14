@@ -1,7 +1,4 @@
 /*
-	Author : Shaik Faizan Roshan Ali
-	Email : alsahercoder@gmail.com
-	Date : 16-sep-2020
 	Arranges array with alternate negative and positive number.
 */
 
