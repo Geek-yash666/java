@@ -1,7 +1,4 @@
 /*
-  Author: Shaik Faizan Roshan Ali
-  Email: alsahercoder@gmail.com
-  Date: 20-Sep-2020
   This program is used to rotate an array using the Arraycopy method in Java.
 */
 
