@@ -1,7 +1,4 @@
 /*
-	Author : Shaik Faizan Roshan Ali
-	Email : alsahercoder@gmail.com
-	Date : 14-sep-2020
 	Reversing Array using different methods
 */
 
