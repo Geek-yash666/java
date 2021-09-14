@@ -1,7 +1,4 @@
 /* 
-	Author : Shaik Faizan Roshan Ali
-	Email : alsahercoder@gmail.com
-	Date : 23-sep-2020
   	Given an array of stock price find the index to purchase and sell  to maximize the profit in single transaction.	
 */
 
